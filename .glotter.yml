@@ -5,7 +5,7 @@ settings:
 projects:
   baklava:
     words:
-      - "baklava"
+      - "chocalate"
     requires_parameters: false
   binarysearch:
     words:
